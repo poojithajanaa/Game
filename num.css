@@ -1,0 +1,43 @@
+*
+{
+    margin:0px;
+    padding:0px;
+    color: aliceblue;
+}
+.main
+{
+    background-color:black;
+    width:400px;
+    height:300px;
+    margin:auto;
+    margin-top:2%;
+    padding: 60px;
+    line-height:200%;
+}
+#message
+{
+    color:azure;
+    width:250px;
+    height:80px;
+    background-color:white ;
+    margin: auto;
+    box-shadow: 2px 2px green;
+}
+#p
+{
+    margin-top:5%;
+}
+
+.btn
+{ 
+    margin-top: 10%;
+    display:flex;
+    justify-content: space-evenly;
+    color:black;
+
+
+}
+ input{
+    background-color: black;
+    box-shadow: 2px 2px yellowgreen;
+}
